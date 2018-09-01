@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Aug 2018 18:17:06 at http://innovationplans.com/idesign/coco2/colorful.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://innovationplans.com/idesign/coco2/colorful.html -O1 "E:\prashant\my templates\hocrux" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:17:08	Warning: 	Note: due to innovationplans.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:19:50	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/coco2/popper.js (from innovationplans.com/idesign/coco2/js/bootstrap.min.js)
+18:19:50	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/coco2/css/images/close.png (from innovationplans.com/idesign/coco2/css/plugins/YouTubePopUp.css)
+18:19:50	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/coco2/css/plugins/owl.video.play.png (from innovationplans.com/idesign/coco2/css/plugins/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 44 seconds : 81 links scanned, 77 files written (4150655 bytes overall) [3738035 bytes received at 22792 bytes/sec], 650122 bytes transferred using HTTP compression in 33 files, ratio 23%, 9.8 requests per connection
+(3 errors, 1 warnings, 0 messages)
