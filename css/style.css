@@ -1636,22 +1636,34 @@ footer .col-content ul li
 
 
 @media (max-width: 768px)
-    {
-        
-        .row .sm-device-padding
-        {
-            padding-top: 30px;
-        }
+  {    
+    .row .sm-device-padding
+      {
+        padding-top: 30px;
+      }
+  }
 
-        header h3
-        {
-          font-size: large;
-        }
-    }
-header p
-        {
-          margin-top: 10px;
-        }
+@media (max-width: 414px)
+  {
+    header h3
+      {
+        font-size: large;
+      }
+  }
+
+@media screen and (max-width: 375px){
+  .header{
+    min-height: 69vh;
+  }
+}
+
+
+header p {
+  
+  margin-top: 10px;
+
+}
+
 .hero .main-content h3
 {
   font-size: 24px;

@@ -438,7 +438,7 @@
                                     </div>
 
                                     <div class="col-md-12">
-                                        <button type="submit" class="butn butn-bg"><span>Send Message</span></button>
+                                        <button type="submit" class="butn butn-bg"><span><a href="#">Send Message</a></span></button>
                                     </div>
 
                                 </div>                             

@@ -59,7 +59,7 @@
         	</div>
 
             <!-- Logo -->
-            <a class="logo" href="#">
+            <a class="logo" href="index.php">
                 <img src="img/logo-light.png" alt="logo">          
             </a>
 
